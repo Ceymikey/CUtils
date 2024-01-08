@@ -1,0 +1,7 @@
+name: CUtils
+version: 1.0.0
+main: org.ceymikey.main
+description: This plugin doesn't do shit tbh.
+author: Ceymikey
+website: https://devs.raidersmc.org
+api-version: '1.20'
